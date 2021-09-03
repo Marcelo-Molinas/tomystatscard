@@ -6,7 +6,6 @@ module.exports = {
     siteUrl: `https://www.github.com/Marcelo-Molinas`,
   },
   plugins: [
-    `gatsby-plugin-sass`,
     `gatsby-plugin-react-helmet`,
     `gatsby-plugin-image`,
     {
