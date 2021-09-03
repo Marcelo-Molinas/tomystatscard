@@ -1,12 +1,12 @@
 module.exports = {
   siteMetadata: {
-    title: `Tarjeta de estadisticas`,
+    title: `TOMAS MOLINAS`,
     description: `Tarjetasd de estadisticas de jugadores de rugby.`,
     author: `@marcelo69420`,
     siteUrl: `https://www.github.com/Marcelo-Molinas`,
   },
   plugins: [
-    `gatsby-plugin-sass`
+    `gatsby-plugin-sass`,
     `gatsby-plugin-react-helmet`,
     `gatsby-plugin-image`,
     {
